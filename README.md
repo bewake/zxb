@@ -74,7 +74,7 @@
   <tr>
   <td align=center>
     <b>☆ 欢迎收藏与分享，网页二维码▼</b></br>
-    <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/shortpathway/open/blob/master/README.md" alt="">
+    <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/bewake/zxb/blob/master/README.md" alt="">
   </td>
   </tr>
 </table>
